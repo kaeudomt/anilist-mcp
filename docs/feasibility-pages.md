@@ -1,6 +1,6 @@
 # Historical GitHub Pages snapshot feasibility (superseded)
 
-**Superseded by the private-repository plan in [feasibility-private-github.md](feasibility-private-github.md). Do not deploy this Pages design or publish its URLs.**
+**Historical Pages proposal:** The repository is now public, but GitHub Pages remains disabled. Do not deploy this Pages design or publish its URLs.
 
 Checked 2026-10-27. This note separates documented capabilities, local tests, and remaining account-side checks.
 

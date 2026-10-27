@@ -1,15 +1,15 @@
-# Private repository and deployment configuration
+# Repository configuration and deployment history
 
-The user approved private deployment on 2026-10-27. The repository is [`kaeudomt/anilist-mcp`](https://github.com/kaeudomt/anilist-mcp). GitHub reported `private: true`, default branch `main`, and `has_pages: false` before the first push; the Pages site endpoint returned HTTP 404.
+The user approved private deployment on 2026-10-27, then explicitly requested that [`kaeudomt/anilist-mcp`](https://github.com/kaeudomt/anilist-mcp) become **public**. GitHub reported `visibility: public` and `has_pages: false` after the change. The Pages site endpoint still returned HTTP 404.
 
 ## Repository and workflow
 
 | Setting | Proposed value |
 | --- | --- |
 | GitHub owner | `kaeudomt`, confirmed by the user's approval and GitHub CLI authentication |
-| Repository | `kaeudomt/anilist-mcp`, **private** |
+| Repository | `kaeudomt/anilist-mcp`, **public** |
 | Default branch | `main` |
-| GitHub Pages | **Disabled** and verified disabled before pushing any exports |
+| GitHub Pages | **Disabled**; repository files are public through GitHub itself |
 | Workflow | `.github/workflows/sync.yml` |
 | Triggers | `0 17 * * *` UTC (00:00 ICT daily) and manual `workflow_dispatch` |
 | Job token | Built-in, repository-scoped `GITHUB_TOKEN` with only `contents: write` |
@@ -23,16 +23,18 @@ The workflow runs tests, fetches and validates the complete AniList list, compar
 
 If a snapshot changes, all three files get the same new UTC retrieval timestamp. If data is unchanged, files and timestamp stay as they were, avoiding a timestamp-only commit. The latest Actions run is the evidence of the latest *check*; the file timestamp is the time the current committed snapshot was retrieved.
 
-## Privacy and permissions
+## Public data and permissions
 
-Only people and apps authorized to read the private repository can access its files through GitHub. The exports still enter the repository's **Git history**; earlier snapshots can remain in that history after later commits. The exports contain public AniList list data, including personal scores, statuses, progress, start/completion dates, custom lists, and timestamps. The code does not export notes, reviews, manga, or credentials.
+Anyone can read and copy the repository's current files, **Git history**, and Actions logs. Earlier snapshots can remain in that history after later commits. The exports contain AniList list data, including personal scores, statuses, progress, start/completion dates, custom lists, and timestamps. The code does not export notes, reviews, manga, or credentials. A scan of the committed history before the visibility change found no common credential patterns.
 
-The GitHub connection in ChatGPT is separate from `GITHUB_TOKEN`. The user must connect the GitHub plugin and authorize access to this private repository. Installing a plugin alone does not grant repository access. The user's GitHub authorization screen may request broader permissions; review it before accepting. No ChatGPT repository access or complete-file retrieval is claimed until tested in the user's ordinary Plus chat.
+The GitHub connection in ChatGPT is separate from `GITHUB_TOKEN`. Public repository files can be fetched without GitHub authorization, but ChatGPT's ability to retrieve the complete list remains unverified in an ordinary Plus conversation.
 
-For a new private repository, Pages should have no site. For an existing repository, check **Settings → Pages** and disable any publishing source and existing site before pushing exports. GitHub states [Pages sites can be public even when their repository is private](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site), so repository privacy alone is insufficient.
+GitHub Pages remains disabled. The public GitHub repository and its raw file URLs expose the exports directly; no Pages deployment is configured.
+
+GitHub's [60-day public-repository inactivity rule](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows) can disable the scheduled workflow if no repository activity occurs. The export workflow intentionally avoids commits for unchanged data, so its schedule should be monitored.
 
 The workflow requires permission to push to the default branch. The workflow file grants only `contents: write`; check organization restrictions or branch rules if GitHub rejects the push. No personal access token is planned.
 
 ## Deployment checks
 
-The user authorized creating and pushing this private repository and running the workflow. Before pushing data, verify visibility is **private** and Pages is disabled. After pushing, run the workflow manually once, inspect the private files and Actions log, and repeat the privacy checks. The ChatGPT account-side test in [the compatibility report](feasibility-private-github.md) remains separate and must succeed before claiming ChatGPT compatibility. Never make this repository public or enable Pages without fresh explicit approval.
+The user authorized private deployment and subsequently authorized making the repository public. Verify that Pages remains disabled and that scheduled runs continue to succeed. The ChatGPT account-side test in the [historical compatibility report](feasibility-private-github.md) remains separate and must succeed before claiming ChatGPT compatibility. Do not enable Pages without explicit approval.

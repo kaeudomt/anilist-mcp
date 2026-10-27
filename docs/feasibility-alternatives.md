@@ -1,6 +1,6 @@
 # Historical AniList access alternatives (superseded)
 
-**This report predates the [private GitHub repository proposal](feasibility-private-github.md). It does not assess the current workflow or establish private GitHub access in ChatGPT.**
+**Historical research:** This report predates the repository sync workflow. The repository is now public, but ChatGPT access to the complete JSON has not been verified.
 
 Checked on **2026-10-27** for the public AniList user `kaeudomt`. This is a feasibility report, not an integration implementation. No ChatGPT Plus account-side test was performed.
 

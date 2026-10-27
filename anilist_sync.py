@@ -1,4 +1,4 @@
-"""Fetch a public AniList anime list and build private repository exports."""
+"""Fetch a public AniList anime list and build repository exports."""
 
 from __future__ import annotations
 
@@ -430,7 +430,7 @@ def render_summary_markdown(summary: dict[str, Any]) -> str:
     lines = [
         f"# {safe(summary['username'])}'s anime summary (for AniList, unofficial)",
         "",
-        f"Last refreshed (UTC): **{summary['refreshed_at_utc']}**. This scheduled snapshot of public AniList data is stored in a private GitHub repository.",
+        f"Last refreshed (UTC): **{summary['refreshed_at_utc']}**. This scheduled snapshot of public AniList data is stored in a GitHub repository.",
         "",
         "For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).",
         "",
@@ -534,7 +534,7 @@ def sync_exports(output: Path, snapshot: dict[str, Any]) -> bool:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--output", type=Path, default=Path("data"), help="Directory for the three private repository exports")
+    parser.add_argument("--output", type=Path, default=Path("data"), help="Directory for the three repository exports")
     parser.add_argument("--validate-output", type=Path, help="Validate an existing export directory without contacting AniList")
     parser.add_argument("--skip-unchanged", action="store_true", help="Keep existing files and timestamp when AniList data has not changed")
     args = parser.parse_args(argv)

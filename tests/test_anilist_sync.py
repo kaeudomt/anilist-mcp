@@ -152,7 +152,7 @@ class SummaryAndExportTests(unittest.TestCase):
             self.assertEqual({path.name for path in output.iterdir()}, set(sync.EXPORT_FILES))
             self.assertEqual(json.loads((output / "anime-list.json").read_text())["entries"][0]["score"], 8.5)
             self.assertIn("2026-10-27T00:00:00Z", (output / "summary.md").read_text())
-            self.assertIn("private GitHub repository", (output / "summary.md").read_text())
+            self.assertIn("GitHub repository", (output / "summary.md").read_text())
 
     def test_unchanged_data_preserves_files_and_retrieval_timestamp(self):
         with tempfile.TemporaryDirectory() as temporary:

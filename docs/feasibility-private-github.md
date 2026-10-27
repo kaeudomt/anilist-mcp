@@ -1,5 +1,7 @@
 # Private GitHub repository to ChatGPT Plus: feasibility
 
+**Historical research:** The repository became public at the user's request on 2026-10-27. Private-repository access requirements below describe the earlier deployment; ChatGPT retrieval of the complete JSON remains unverified.
+
 Checked **2026-10-27**. This distinguishes official documentation, local evidence, and account-side questions.
 
 ## Confirmed by official documentation

@@ -1,4 +1,4 @@
-name: Sync private AniList snapshot
+name: Sync AniList snapshot
 
 on:
   schedule:

@@ -1,6 +1,6 @@
-# Private anime snapshot for AniList (unofficial)
+# Anime snapshot for AniList (unofficial)
 
-This project reads the public anime list for AniList user `kaeudomt` and writes three files to `data/` in the [private `kaeudomt/anilist-mcp` repository](https://github.com/kaeudomt/anilist-mcp). GitHub Actions is configured to check AniList daily at 00:00 Thailand time (17:00 UTC) and commit only when the list data changes. No AniList credentials, local server, database, or GitHub Pages site is required.
+This project reads the public anime list for AniList user `kaeudomt` and writes three files to `data/` in the [public `kaeudomt/anilist-mcp` repository](https://github.com/kaeudomt/anilist-mcp). GitHub Actions is configured to check AniList daily at 00:00 Thailand time (17:00 UTC) and commit only when the list data changes. No AniList credentials, local server, database, or GitHub Pages site is required.
 
 ## Local use
 
@@ -22,16 +22,18 @@ The exporter uses GraphQL POST requests, follows paginated results, and checks l
 
 The account's AniList score format is stored with the original score values. Zero, which AniList uses for an unrated entry, remains zero in the complete file and is excluded from score statistics. Viewing-by-year statistics count recorded start and completion dates.
 
-## Private deployment
+## GitHub deployment
 
-The workflow is [`.github/workflows/sync.yml`](.github/workflows/sync.yml). It runs daily at 17:00 UTC (00:00 ICT the following day) and can be run manually. It uses the repository-scoped `GITHUB_TOKEN` with only `contents: write`; it commits and pushes the three export files when they change. GitHub Pages must remain disabled. The [private deployment plan](docs/deployment-plan.md) lists the exact permissions and approval gate.
+The workflow is [`.github/workflows/sync.yml`](.github/workflows/sync.yml). It runs daily at 17:00 UTC (00:00 ICT the following day) and can be run manually. It uses the repository-scoped `GITHUB_TOKEN` with only `contents: write`; it commits and pushes the three export files when they change. GitHub Pages remains disabled. The [deployment record](docs/deployment-plan.md) lists the permissions and visibility history.
 
-After an approved deployment, connect the GitHub plugin in ChatGPT and authorize this **specific private repository**. The [compatibility report](docs/feasibility-private-github.md) gives an exact test for normal ChatGPT Plus conversations. We have **not** verified that ChatGPT can retrieve the full JSON file or its latest commit through that connection.
+The files are publicly readable through GitHub. ChatGPT browsing and full-list retrieval in an ordinary Plus conversation remain unverified; the [historical compatibility report](docs/feasibility-private-github.md) includes a full-list test that can be adapted to the public repository.
 
 ## Confirm scheduled checks
 
-Open the private repository's **Actions → Sync private AniList snapshot** page. Confirm that scheduled runs appear after 17:00 UTC each day (00:00 ICT the next day) and complete successfully; GitHub may delay or occasionally drop a scheduled run. A successful run logs either `Updated` or `Unchanged`. On `Updated`, inspect the newest commit and matching timestamps in all three `data/` files. On `Unchanged`, the files keep the previous retrieval timestamp and no commit is expected. Enable GitHub Actions failure notifications for the repository so a stopped or failing schedule is noticed.
+Open the repository's **Actions → Sync AniList snapshot** page. Confirm that scheduled runs appear after 17:00 UTC each day (00:00 ICT the next day) and complete successfully; GitHub may delay or occasionally drop a scheduled run. A successful run logs either `Updated` or `Unchanged`. On `Updated`, inspect the newest commit and matching timestamps in all three `data/` files. On `Unchanged`, the files keep the previous retrieval timestamp and no commit is expected. Enable GitHub Actions failure notifications for the repository so a stopped or failing schedule is noticed.
+
+GitHub [automatically disables scheduled workflows in public repositories after 60 days without repository activity](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows). If the AniList data stays unchanged long enough that no commits occur, check the Actions page and re-enable the workflow if needed.
 
 ## Git in this workspace
 
-This workspace mounts `.git` read-only. Its local Git metadata is held in the ignored `.git-local/` directory. To inspect this working tree here, run `env GIT_DIR=.git-local GIT_WORK_TREE=. git status`. A fresh clone of the private repository uses ordinary Git commands.
+This workspace mounts `.git` read-only. Its local Git metadata is held in the ignored `.git-local/` directory. To inspect this working tree here, run `env GIT_DIR=.git-local GIT_WORK_TREE=. git status`. A fresh clone uses ordinary Git commands.
