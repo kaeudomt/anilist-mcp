@@ -1,0 +1,46 @@
+name: Sync private AniList snapshot
+
+on:
+  schedule:
+    # Four times daily in UTC, away from the top-of-hour traffic peak.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: anilist-private-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.event_name == 'schedule' || github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Test exporter
+        run: python -m unittest discover -s tests -v
+      - name: Fetch AniList and update exports only if data changed
+        run: python anilist_sync.py --output data --skip-unchanged
+      - name: Validate repository exports
+        run: python anilist_sync.py --validate-output data
+      - name: Commit and push changed exports
+        run: |
+          git add -- data/anime-list.json data/summary.json data/summary.md
+          if git diff --cached --quiet; then
+            echo "AniList data is unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update AniList snapshot"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

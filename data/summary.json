@@ -1,0 +1,622 @@
+{
+  "schema_version": 1,
+  "username": "kaeudomt",
+  "refreshed_at_utc": "2026-10-27T15:23:39Z",
+  "score_format": "POINT_10_DECIMAL",
+  "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
+  "total_entries": 170,
+  "completed_count": 65,
+  "currently_watching_count": 3,
+  "status_counts": {
+    "COMPLETED": 65,
+    "CURRENT": 3,
+    "DROPPED": 6,
+    "PAUSED": 1,
+    "PLANNING": 95,
+    "REPEATING": 0
+  },
+  "rated_entries": 66,
+  "mean_score": 7.021,
+  "median_score": 7.5,
+  "score_distribution": [
+    {
+      "score": 2.3,
+      "count": 1
+    },
+    {
+      "score": 2.8,
+      "count": 2
+    },
+    {
+      "score": 3.5,
+      "count": 2
+    },
+    {
+      "score": 4,
+      "count": 1
+    },
+    {
+      "score": 4.2,
+      "count": 2
+    },
+    {
+      "score": 4.5,
+      "count": 2
+    },
+    {
+      "score": 4.8,
+      "count": 1
+    },
+    {
+      "score": 5,
+      "count": 1
+    },
+    {
+      "score": 5.2,
+      "count": 1
+    },
+    {
+      "score": 5.4,
+      "count": 1
+    },
+    {
+      "score": 5.8,
+      "count": 1
+    },
+    {
+      "score": 6,
+      "count": 2
+    },
+    {
+      "score": 6.3,
+      "count": 1
+    },
+    {
+      "score": 6.5,
+      "count": 3
+    },
+    {
+      "score": 6.6,
+      "count": 1
+    },
+    {
+      "score": 6.8,
+      "count": 2
+    },
+    {
+      "score": 7,
+      "count": 4
+    },
+    {
+      "score": 7.3,
+      "count": 2
+    },
+    {
+      "score": 7.4,
+      "count": 2
+    },
+    {
+      "score": 7.5,
+      "count": 4
+    },
+    {
+      "score": 7.6,
+      "count": 1
+    },
+    {
+      "score": 7.8,
+      "count": 3
+    },
+    {
+      "score": 7.9,
+      "count": 1
+    },
+    {
+      "score": 8,
+      "count": 4
+    },
+    {
+      "score": 8.2,
+      "count": 2
+    },
+    {
+      "score": 8.3,
+      "count": 1
+    },
+    {
+      "score": 8.4,
+      "count": 2
+    },
+    {
+      "score": 8.5,
+      "count": 6
+    },
+    {
+      "score": 8.6,
+      "count": 2
+    },
+    {
+      "score": 8.8,
+      "count": 2
+    },
+    {
+      "score": 9,
+      "count": 1
+    },
+    {
+      "score": 9.2,
+      "count": 1
+    },
+    {
+      "score": 9.4,
+      "count": 1
+    },
+    {
+      "score": 9.7,
+      "count": 1
+    },
+    {
+      "score": 10,
+      "count": 2
+    }
+  ],
+  "top_rated": [
+    {
+      "media_id": 101921,
+      "title": "Kaguya-sama: Love is War",
+      "status": "COMPLETED",
+      "score": 10,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 3,
+        "day": 30
+      },
+      "site_url": "https://anilist.co/anime/101921"
+    },
+    {
+      "media_id": 100643,
+      "title": "Made in Abyss: Dawn of the Deep Soul",
+      "status": "COMPLETED",
+      "score": 10,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 20
+      },
+      "site_url": "https://anilist.co/anime/100643"
+    },
+    {
+      "media_id": 125367,
+      "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+      "status": "COMPLETED",
+      "score": 9.7,
+      "progress": 13,
+      "episode_count": 13,
+      "completed_at": {
+        "year": 2026,
+        "month": 4,
+        "day": 3
+      },
+      "site_url": "https://anilist.co/anime/125367"
+    },
+    {
+      "media_id": 112641,
+      "title": "Kaguya-sama: Love is War?",
+      "status": "COMPLETED",
+      "score": 9.4,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 4,
+        "day": 1
+      },
+      "site_url": "https://anilist.co/anime/112641"
+    },
+    {
+      "media_id": 4224,
+      "title": "Toradora!",
+      "status": "COMPLETED",
+      "score": 9.2,
+      "progress": 25,
+      "episode_count": 25,
+      "completed_at": {
+        "year": 2026,
+        "month": 9,
+        "day": 26
+      },
+      "site_url": "https://anilist.co/anime/4224"
+    },
+    {
+      "media_id": 151384,
+      "title": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+      "status": "COMPLETED",
+      "score": 9,
+      "progress": 4,
+      "episode_count": 4,
+      "completed_at": {
+        "year": 2026,
+        "month": 4,
+        "day": 25
+      },
+      "site_url": "https://anilist.co/anime/151384"
+    },
+    {
+      "media_id": 175914,
+      "title": "Call of the Night Season 2",
+      "status": "COMPLETED",
+      "score": 8.8,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2025,
+        "month": 9,
+        "day": 20
+      },
+      "site_url": "https://anilist.co/anime/175914"
+    },
+    {
+      "media_id": 194884,
+      "title": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+      "status": "COMPLETED",
+      "score": 8.8,
+      "progress": 2,
+      "episode_count": 2,
+      "completed_at": {
+        "year": 2026,
+        "month": 4,
+        "day": 30
+      },
+      "site_url": "https://anilist.co/anime/194884"
+    },
+    {
+      "media_id": 14741,
+      "title": "Love, Chunibyo & Other Delusions",
+      "status": "COMPLETED",
+      "score": 8.6,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 8
+      },
+      "site_url": "https://anilist.co/anime/14741"
+    },
+    {
+      "media_id": 18671,
+      "title": "Love, Chunibyo & Other Delusions - Heart Throb -",
+      "status": "COMPLETED",
+      "score": 8.6,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 13
+      },
+      "site_url": "https://anilist.co/anime/18671"
+    }
+  ],
+  "recently_completed": [
+    {
+      "media_id": 114745,
+      "title": "Made in Abyss: The Golden City of the Scorching Sun",
+      "status": "COMPLETED",
+      "score": 8.5,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 25
+      },
+      "site_url": "https://anilist.co/anime/114745"
+    },
+    {
+      "media_id": 207327,
+      "title": "To You in the Beyond",
+      "status": "COMPLETED",
+      "score": 7,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 21
+      },
+      "site_url": "https://anilist.co/anime/207327"
+    },
+    {
+      "media_id": 114744,
+      "title": "Marulk's Daily Life",
+      "status": "COMPLETED",
+      "score": 6.5,
+      "progress": 4,
+      "episode_count": 4,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 20
+      },
+      "site_url": "https://anilist.co/anime/114744"
+    },
+    {
+      "media_id": 100643,
+      "title": "Made in Abyss: Dawn of the Deep Soul",
+      "status": "COMPLETED",
+      "score": 10,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 20
+      },
+      "site_url": "https://anilist.co/anime/100643"
+    },
+    {
+      "media_id": 97986,
+      "title": "Made in Abyss",
+      "status": "COMPLETED",
+      "score": 8.5,
+      "progress": 13,
+      "episode_count": 13,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 19
+      },
+      "site_url": "https://anilist.co/anime/97986"
+    },
+    {
+      "media_id": 98762,
+      "title": "Love, Chunibyo & Other Delusions: Take on Me",
+      "status": "COMPLETED",
+      "score": 8.2,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 13
+      },
+      "site_url": "https://anilist.co/anime/98762"
+    },
+    {
+      "media_id": 20889,
+      "title": "Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn",
+      "status": "COMPLETED",
+      "score": 8.5,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 13
+      },
+      "site_url": "https://anilist.co/anime/20889"
+    },
+    {
+      "media_id": 18671,
+      "title": "Love, Chunibyo & Other Delusions - Heart Throb -",
+      "status": "COMPLETED",
+      "score": 8.6,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 13
+      },
+      "site_url": "https://anilist.co/anime/18671"
+    },
+    {
+      "media_id": 16934,
+      "title": "Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)",
+      "status": "COMPLETED",
+      "score": 8.2,
+      "progress": 1,
+      "episode_count": 1,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 8
+      },
+      "site_url": "https://anilist.co/anime/16934"
+    },
+    {
+      "media_id": 14741,
+      "title": "Love, Chunibyo & Other Delusions",
+      "status": "COMPLETED",
+      "score": 8.6,
+      "progress": 12,
+      "episode_count": 12,
+      "completed_at": {
+        "year": 2026,
+        "month": 10,
+        "day": 8
+      },
+      "site_url": "https://anilist.co/anime/14741"
+    }
+  ],
+  "currently_watching": [
+    {
+      "media_id": 186742,
+      "title": "A Certain Dark Item",
+      "status": "CURRENT",
+      "score": 0,
+      "progress": 1,
+      "episode_count": null,
+      "completed_at": null,
+      "site_url": "https://anilist.co/anime/186742"
+    },
+    {
+      "media_id": 191656,
+      "title": "Even the Student Council Has Its Holes!",
+      "status": "CURRENT",
+      "score": 0,
+      "progress": 3,
+      "episode_count": 12,
+      "completed_at": null,
+      "site_url": "https://anilist.co/anime/191656"
+    },
+    {
+      "media_id": 206401,
+      "title": "FX Fighter Kurumi-chan",
+      "status": "CURRENT",
+      "score": 0,
+      "progress": 4,
+      "episode_count": 12,
+      "completed_at": null,
+      "site_url": "https://anilist.co/anime/206401"
+    }
+  ],
+  "viewing_statistics_by_year": [
+    {
+      "year": 2022,
+      "started": 3,
+      "completed": 3
+    },
+    {
+      "year": 2023,
+      "started": 10,
+      "completed": 12
+    },
+    {
+      "year": 2024,
+      "started": 5,
+      "completed": 5
+    },
+    {
+      "year": 2025,
+      "started": 19,
+      "completed": 13
+    },
+    {
+      "year": 2026,
+      "started": 36,
+      "completed": 33
+    }
+  ],
+  "ratings_by_release_year": [
+    {
+      "year": 2008,
+      "rated_entries": 1,
+      "mean_score": 9.2,
+      "median_score": 9.2
+    },
+    {
+      "year": 2009,
+      "rated_entries": 1,
+      "mean_score": 7.4,
+      "median_score": 7.4
+    },
+    {
+      "year": 2010,
+      "rated_entries": 2,
+      "mean_score": 7.2,
+      "median_score": 7.2
+    },
+    {
+      "year": 2011,
+      "rated_entries": 1,
+      "mean_score": 7.3,
+      "median_score": 7.3
+    },
+    {
+      "year": 2012,
+      "rated_entries": 1,
+      "mean_score": 8.6,
+      "median_score": 8.6
+    },
+    {
+      "year": 2013,
+      "rated_entries": 2,
+      "mean_score": 6.6,
+      "median_score": 6.6
+    },
+    {
+      "year": 2014,
+      "rated_entries": 2,
+      "mean_score": 8.55,
+      "median_score": 8.55
+    },
+    {
+      "year": 2015,
+      "rated_entries": 1,
+      "mean_score": 8.4,
+      "median_score": 8.4
+    },
+    {
+      "year": 2016,
+      "rated_entries": 3,
+      "mean_score": 7.567,
+      "median_score": 7.8
+    },
+    {
+      "year": 2017,
+      "rated_entries": 2,
+      "mean_score": 8.5,
+      "median_score": 8.5
+    },
+    {
+      "year": 2018,
+      "rated_entries": 1,
+      "mean_score": 8.2,
+      "median_score": 8.2
+    },
+    {
+      "year": 2019,
+      "rated_entries": 2,
+      "mean_score": 9,
+      "median_score": 9.0
+    },
+    {
+      "year": 2020,
+      "rated_entries": 4,
+      "mean_score": 7.925,
+      "median_score": 7.95
+    },
+    {
+      "year": 2021,
+      "rated_entries": 4,
+      "mean_score": 7.4,
+      "median_score": 7.65
+    },
+    {
+      "year": 2022,
+      "rated_entries": 9,
+      "mean_score": 7.133,
+      "median_score": 7.6
+    },
+    {
+      "year": 2023,
+      "rated_entries": 4,
+      "mean_score": 8.0,
+      "median_score": 7.75
+    },
+    {
+      "year": 2024,
+      "rated_entries": 3,
+      "mean_score": 7.533,
+      "median_score": 7.5
+    },
+    {
+      "year": 2025,
+      "rated_entries": 13,
+      "mean_score": 5.854,
+      "median_score": 6.8
+    },
+    {
+      "year": 2026,
+      "rated_entries": 10,
+      "mean_score": 5.57,
+      "median_score": 5.300000000000001
+    }
+  ]
+}
