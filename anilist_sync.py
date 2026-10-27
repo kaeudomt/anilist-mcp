@@ -430,7 +430,7 @@ def render_summary_markdown(summary: dict[str, Any]) -> str:
     lines = [
         f"# {safe(summary['username'])}'s anime summary (for AniList, unofficial)",
         "",
-        f"Last refreshed (UTC): **{summary['refreshed_at_utc']}**. This is a scheduled snapshot, not a live AniList API response.",
+        f"Last refreshed (UTC): **{summary['refreshed_at_utc']}**. This scheduled snapshot of public AniList data is stored in a private GitHub repository.",
         "",
         "For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).",
         "",
