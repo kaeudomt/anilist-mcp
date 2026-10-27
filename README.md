@@ -31,3 +31,7 @@ After an approved deployment, connect the GitHub plugin in ChatGPT and authorize
 ## Confirm scheduled checks
 
 Open the private repository's **Actions → Sync private AniList snapshot** page. Confirm that scheduled runs appear after 00:17, 06:17, 12:17, and 18:17 UTC and complete successfully; GitHub may delay or occasionally drop a scheduled run. A successful run logs either `Updated` or `Unchanged`. On `Updated`, inspect the newest commit and matching timestamps in all three `data/` files. On `Unchanged`, the files keep the previous retrieval timestamp and no commit is expected. Enable GitHub Actions failure notifications for the repository so a stopped or failing schedule is noticed.
+
+## Git in this workspace
+
+This workspace mounts `.git` read-only. Its local Git metadata is held in the ignored `.git-local/` directory. To inspect this working tree here, run `env GIT_DIR=.git-local GIT_WORK_TREE=. git status`. A fresh clone of the private repository uses ordinary Git commands.
