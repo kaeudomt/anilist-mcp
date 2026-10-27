@@ -1,4 +1,4 @@
-# Anime snapshot for AniList (unofficial)
+# Anime snapshot for AniList
 
 This project reads the public anime list for AniList user `kaeudomt` and writes three files to `data/` in the [public `kaeudomt/anilist-mcp` repository](https://github.com/kaeudomt/anilist-mcp). GitHub Actions is configured to check AniList daily at 00:00 Thailand time (17:00 UTC) and commit only when the list data changes. No AniList credentials, local server, database, or GitHub Pages site is required.
 
