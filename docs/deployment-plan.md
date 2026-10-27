@@ -11,7 +11,7 @@ The user approved private deployment on 2026-10-27. The repository is [`kaeudomt
 | Default branch | `main` |
 | GitHub Pages | **Disabled** and verified disabled before pushing any exports |
 | Workflow | `.github/workflows/sync.yml` |
-| Triggers | `17 */6 * * *` UTC and manual `workflow_dispatch` |
+| Triggers | `0 17 * * *` UTC (00:00 ICT daily) and manual `workflow_dispatch` |
 | Job token | Built-in, repository-scoped `GITHUB_TOKEN` with only `contents: write` |
 | Actions used | Official `actions/checkout@v7` and `actions/setup-python@v7` |
 | Tracked data | `data/anime-list.json`, `data/summary.json`, `data/summary.md` |

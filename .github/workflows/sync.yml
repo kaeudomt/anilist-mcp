@@ -2,8 +2,8 @@ name: Sync private AniList snapshot
 
 on:
   schedule:
-    # Four times daily in UTC, away from the top-of-hour traffic peak.
-    - cron: '17 */6 * * *'
+    # Daily at 00:00 Thailand time (17:00 UTC on the previous day).
+    - cron: '0 17 * * *'
   workflow_dispatch:
 
 permissions:
