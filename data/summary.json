@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-10-31T20:26:08Z",
+  "refreshed_at_utc": "2026-11-01T21:02:42Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 170,
@@ -460,7 +460,7 @@
       "title": "Even the Student Council Has Its Holes!",
       "status": "CURRENT",
       "score": 0,
-      "progress": 3,
+      "progress": 5,
       "episode_count": 12,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/191656"

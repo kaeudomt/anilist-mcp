@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-10-31T20:26:08Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-01T21:02:42Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -34,7 +34,7 @@ Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 95, REPEAT
 ## Currently watching
 
 - A Certain Dark Item: episode 1/?; unrated.
-- Even the Student Council Has Its Holes!: episode 3/12; unrated.
+- Even the Student Council Has Its Holes!: episode 5/12; unrated.
 - FX Fighter Kurumi-chan: episode 4/12; unrated.
 
 ## Recently completed
