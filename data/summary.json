@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-03T22:15:03Z",
+  "refreshed_at_utc": "2026-11-04T22:30:35Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
-  "total_entries": 170,
+  "total_entries": 173,
   "completed_count": 65,
   "currently_watching_count": 3,
   "status_counts": {
@@ -12,7 +12,7 @@
     "CURRENT": 3,
     "DROPPED": 6,
     "PAUSED": 1,
-    "PLANNING": 95,
+    "PLANNING": 98,
     "REPEATING": 0
   },
   "rated_entries": 66,

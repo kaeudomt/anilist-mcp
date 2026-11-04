@@ -1,12 +1,12 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-03T22:15:03Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-04T22:30:35Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
 ## Counts and scores
 
-- Total entries: **170**
+- Total entries: **173**
 - Completed: **65**
 - Currently watching: **3**
 - Rated entries: **66**
@@ -14,7 +14,7 @@ For questions about every title or detailed metadata, see [anime-list.json](anim
 - Mean / median of positive personal scores: **7.021 / 7.5**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 95, REPEATING 0.
+Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 98, REPEATING 0.
 
 ## Ten highest-rated anime
 
