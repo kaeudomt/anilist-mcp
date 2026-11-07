@@ -1,20 +1,20 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-06T21:59:26Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-07T20:45:01Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
 ## Counts and scores
 
-- Total entries: **173**
+- Total entries: **175**
 - Completed: **65**
 - Currently watching: **3**
-- Rated entries: **66**
+- Rated entries: **68**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **7.021 / 7.5**
+- Mean / median of positive personal scores: **6.984 / 7.45**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 98, REPEATING 0.
+Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
 
 ## Ten highest-rated anime
 
@@ -33,8 +33,8 @@ Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 98, REPEAT
 
 ## Currently watching
 
-- A Certain Dark Item: episode 1/?; unrated.
-- Even the Student Council Has Its Holes!: episode 5/12; unrated.
+- A Certain Dark Item: episode 3/?; 4.5.
+- Even the Student Council Has Its Holes!: episode 5/12; 7.
 - FX Fighter Kurumi-chan: episode 4/12; unrated.
 
 ## Recently completed
@@ -59,7 +59,7 @@ Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 98, REPEAT
 | 3.5 | 2 |
 | 4 | 1 |
 | 4.2 | 2 |
-| 4.5 | 2 |
+| 4.5 | 3 |
 | 4.8 | 1 |
 | 5 | 1 |
 | 5.2 | 1 |
@@ -70,7 +70,7 @@ Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 98, REPEAT
 | 6.5 | 3 |
 | 6.6 | 1 |
 | 6.8 | 2 |
-| 7 | 4 |
+| 7 | 5 |
 | 7.3 | 2 |
 | 7.4 | 2 |
 | 7.5 | 4 |
@@ -124,4 +124,4 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2023 | 4 | 8.0 | 7.75 |
 | 2024 | 3 | 7.533 | 7.5 |
 | 2025 | 13 | 5.854 | 6.8 |
-| 2026 | 10 | 5.57 | 5.300000000000001 |
+| 2026 | 12 | 5.6 | 5.300000000000001 |

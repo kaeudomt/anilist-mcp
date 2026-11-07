@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-06T21:59:26Z",
+  "refreshed_at_utc": "2026-11-07T20:45:01Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
-  "total_entries": 173,
+  "total_entries": 175,
   "completed_count": 65,
   "currently_watching_count": 3,
   "status_counts": {
@@ -12,12 +12,12 @@
     "CURRENT": 3,
     "DROPPED": 6,
     "PAUSED": 1,
-    "PLANNING": 98,
+    "PLANNING": 100,
     "REPEATING": 0
   },
-  "rated_entries": 66,
-  "mean_score": 7.021,
-  "median_score": 7.5,
+  "rated_entries": 68,
+  "mean_score": 6.984,
+  "median_score": 7.45,
   "score_distribution": [
     {
       "score": 2.3,
@@ -41,7 +41,7 @@
     },
     {
       "score": 4.5,
-      "count": 2
+      "count": 3
     },
     {
       "score": 4.8,
@@ -85,7 +85,7 @@
     },
     {
       "score": 7,
-      "count": 4
+      "count": 5
     },
     {
       "score": 7.3,
@@ -449,8 +449,8 @@
       "media_id": 186742,
       "title": "A Certain Dark Item",
       "status": "CURRENT",
-      "score": 0,
-      "progress": 1,
+      "score": 4.5,
+      "progress": 3,
       "episode_count": null,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/186742"
@@ -459,7 +459,7 @@
       "media_id": 191656,
       "title": "Even the Student Council Has Its Holes!",
       "status": "CURRENT",
-      "score": 0,
+      "score": 7,
       "progress": 5,
       "episode_count": 12,
       "completed_at": null,
@@ -614,8 +614,8 @@
     },
     {
       "year": 2026,
-      "rated_entries": 10,
-      "mean_score": 5.57,
+      "rated_entries": 12,
+      "mean_score": 5.6,
       "median_score": 5.300000000000001
     }
   ]

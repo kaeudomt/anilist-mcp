@@ -3,8 +3,8 @@
   "username": "kaeudomt",
   "anilist_user_id": 6630143,
   "score_format": "POINT_10_DECIMAL",
-  "refreshed_at_utc": "2026-11-06T21:59:26Z",
-  "total_entries": 173,
+  "refreshed_at_utc": "2026-11-07T20:45:01Z",
+  "total_entries": 175,
   "entries": [
     {
       "list_entry_id": 601339931,
@@ -50,7 +50,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791389252,
       "list_updated_at_unix": 1791389252,
-      "media_updated_at_unix": 1793998882
+      "media_updated_at_unix": 1794081711
     },
     {
       "list_entry_id": 601325701,
@@ -112,7 +112,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791385303,
       "list_updated_at_unix": 1791385303,
-      "media_updated_at_unix": 1793995248
+      "media_updated_at_unix": 1794081684
     },
     {
       "list_entry_id": 601020714,
@@ -179,7 +179,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791297270,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998844
+      "media_updated_at_unix": 1794081677
     },
     {
       "list_entry_id": 536789054,
@@ -264,7 +264,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1771647344,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998817
+      "media_updated_at_unix": 1794081608
     },
     {
       "list_entry_id": 601543605,
@@ -344,7 +344,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791458489,
       "list_updated_at_unix": 1791458489,
-      "media_updated_at_unix": 1793998821
+      "media_updated_at_unix": 1794081618
     },
     {
       "list_entry_id": 559290358,
@@ -423,7 +423,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1778489858,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998927
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 552054490,
@@ -490,7 +490,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776750485,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998847
+      "media_updated_at_unix": 1794078031
     },
     {
       "list_entry_id": 585599191,
@@ -583,7 +583,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1785762789,
       "list_updated_at_unix": 1792286887,
-      "media_updated_at_unix": 1793998815
+      "media_updated_at_unix": 1794081626
     },
     {
       "list_entry_id": 608507391,
@@ -652,7 +652,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1793785566,
       "list_updated_at_unix": 1793785566,
-      "media_updated_at_unix": 1793998842
+      "media_updated_at_unix": 1794081605
     },
     {
       "list_entry_id": 537432568,
@@ -738,7 +738,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1771919109,
       "list_updated_at_unix": 1791903091,
-      "media_updated_at_unix": 1793998853
+      "media_updated_at_unix": 1794081638
     },
     {
       "list_entry_id": 561192192,
@@ -792,7 +792,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1778729928,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794078138
     },
     {
       "list_entry_id": 572557973,
@@ -860,7 +860,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782056277,
       "list_updated_at_unix": 1791903092,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081694
     },
     {
       "list_entry_id": 572854587,
@@ -921,7 +921,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782136308,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998805
+      "media_updated_at_unix": 1794081651
     },
     {
       "list_entry_id": 572781392,
@@ -1007,7 +1007,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782115479,
       "list_updated_at_unix": 1791903094,
-      "media_updated_at_unix": 1793995204
+      "media_updated_at_unix": 1794078070
     },
     {
       "list_entry_id": 577025048,
@@ -1092,7 +1092,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1783266174,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998826
+      "media_updated_at_unix": 1794081648
     },
     {
       "list_entry_id": 600754568,
@@ -1152,7 +1152,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791218751,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 499248355,
@@ -1241,7 +1241,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754922884,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998836
+      "media_updated_at_unix": 1794081641
     },
     {
       "list_entry_id": 598290942,
@@ -1291,7 +1291,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1790498834,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 531303272,
@@ -1370,7 +1370,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769323071,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998835
+      "media_updated_at_unix": 1794081614
     },
     {
       "list_entry_id": 545865355,
@@ -1424,7 +1424,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774961777,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998806
+      "media_updated_at_unix": 1794081664
     },
     {
       "list_entry_id": 606277316,
@@ -1493,7 +1493,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1793015322,
       "list_updated_at_unix": 1793015322,
-      "media_updated_at_unix": 1793995218
+      "media_updated_at_unix": 1794081629
     },
     {
       "list_entry_id": 546168174,
@@ -1553,7 +1553,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1775052512,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998902
+      "media_updated_at_unix": 1794081695
     },
     {
       "list_entry_id": 546931948,
@@ -1643,7 +1643,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1775268436,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998847
+      "media_updated_at_unix": 1794081645
     },
     {
       "list_entry_id": 552054458,
@@ -1730,7 +1730,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776750456,
       "list_updated_at_unix": 1791903092,
-      "media_updated_at_unix": 1793998838
+      "media_updated_at_unix": 1794081692
     },
     {
       "list_entry_id": 525101756,
@@ -1793,7 +1793,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1767377483,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998814
+      "media_updated_at_unix": 1794081614
     },
     {
       "list_entry_id": 538837177,
@@ -1872,7 +1872,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1772530125,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998821
+      "media_updated_at_unix": 1794081617
     },
     {
       "list_entry_id": 601526850,
@@ -1946,7 +1946,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791451894,
       "list_updated_at_unix": 1791903095,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794074571
     },
     {
       "list_entry_id": 598113286,
@@ -2005,7 +2005,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1790442025,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995247
+      "media_updated_at_unix": 1794081622
     },
     {
       "list_entry_id": 601526891,
@@ -2074,7 +2074,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791451923,
       "list_updated_at_unix": 1791903098,
-      "media_updated_at_unix": 1793998883
+      "media_updated_at_unix": 1794081691
     },
     {
       "list_entry_id": 514953470,
@@ -2158,7 +2158,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1762252197,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998855
+      "media_updated_at_unix": 1794081616
     },
     {
       "list_entry_id": 603078030,
@@ -2206,7 +2206,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791903481,
       "list_updated_at_unix": 1791903481,
-      "media_updated_at_unix": 1793998823
+      "media_updated_at_unix": 1794081705
     },
     {
       "list_entry_id": 605373383,
@@ -2282,7 +2282,81 @@
       "repeat_count": 0,
       "list_created_at_unix": 1792718830,
       "list_updated_at_unix": 1792718830,
-      "media_updated_at_unix": 1793998836
+      "media_updated_at_unix": 1794081679
+    },
+    {
+      "list_entry_id": 609071365,
+      "media_id": 20623,
+      "title": {
+        "english": "Parasyte -the maxim-",
+        "romaji": "Kiseijuu: Sei no Kakuritsu",
+        "native": "寄生獣 セイの格率"
+      },
+      "status": "PLANNING",
+      "progress": 0,
+      "score": 0,
+      "started_at": null,
+      "completed_at": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "studios": [
+        {
+          "id": 6892,
+          "name": "Forecast Communications",
+          "is_main": false,
+          "is_animation_studio": false
+        },
+        {
+          "id": 159,
+          "name": "Kodansha",
+          "is_main": false,
+          "is_animation_studio": false
+        },
+        {
+          "id": 11,
+          "name": "MADHOUSE",
+          "is_main": true,
+          "is_animation_studio": true
+        },
+        {
+          "id": 6620,
+          "name": "Nippon Television Network",
+          "is_main": false,
+          "is_animation_studio": false
+        },
+        {
+          "id": 376,
+          "name": "Sentai Filmworks",
+          "is_main": false,
+          "is_animation_studio": false
+        },
+        {
+          "id": 29,
+          "name": "VAP",
+          "is_main": false,
+          "is_animation_studio": false
+        }
+      ],
+      "release_year": 2014,
+      "release_date": {
+        "year": 2014,
+        "month": 10,
+        "day": 9
+      },
+      "episode_count": 24,
+      "format": "TV",
+      "site_url": "https://anilist.co/anime/20623",
+      "custom_lists": [],
+      "hidden_from_status_lists": false,
+      "repeat_count": 0,
+      "list_created_at_unix": 1794020576,
+      "list_updated_at_unix": 1794020576,
+      "media_updated_at_unix": 1794081622
     },
     {
       "list_entry_id": 551607238,
@@ -2367,7 +2441,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776596906,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998811
+      "media_updated_at_unix": 1794081639
     },
     {
       "list_entry_id": 574354394,
@@ -2429,7 +2503,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782609166,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998929
+      "media_updated_at_unix": 1794081700
     },
     {
       "list_entry_id": 392176972,
@@ -2492,7 +2566,7 @@
       "repeat_count": 1,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995211
+      "media_updated_at_unix": 1794081609
     },
     {
       "list_entry_id": 602986190,
@@ -2548,7 +2622,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791870625,
       "list_updated_at_unix": 1791903093,
-      "media_updated_at_unix": 1793991757
+      "media_updated_at_unix": 1794074571
     },
     {
       "list_entry_id": 526091882,
@@ -2608,7 +2682,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1767626021,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995220
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 531303296,
@@ -2662,7 +2736,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769323085,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998850
+      "media_updated_at_unix": 1794081621
     },
     {
       "list_entry_id": 601020707,
@@ -2706,7 +2780,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791297267,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998946
+      "media_updated_at_unix": 1794081741
     },
     {
       "list_entry_id": 392176973,
@@ -2757,7 +2831,7 @@
       "repeat_count": 1,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998808
+      "media_updated_at_unix": 1794081612
     },
     {
       "list_entry_id": 556908998,
@@ -2812,7 +2886,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1778310680,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998834
+      "media_updated_at_unix": 1794081652
     },
     {
       "list_entry_id": 392176976,
@@ -2912,7 +2986,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903096,
-      "media_updated_at_unix": 1793998807
+      "media_updated_at_unix": 1794081670
     },
     {
       "list_entry_id": 537059786,
@@ -2967,7 +3041,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1771767914,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998882
+      "media_updated_at_unix": 1794081638
     },
     {
       "list_entry_id": 543642607,
@@ -3049,7 +3123,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774215947,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998820
+      "media_updated_at_unix": 1794081676
     },
     {
       "list_entry_id": 504326949,
@@ -3135,7 +3209,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1757665794,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998851
+      "media_updated_at_unix": 1794081647
     },
     {
       "list_entry_id": 564211965,
@@ -3189,7 +3263,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1779500175,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998842
+      "media_updated_at_unix": 1794074525
     },
     {
       "list_entry_id": 551607625,
@@ -3244,7 +3318,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776597182,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998936
+      "media_updated_at_unix": 1794078074
     },
     {
       "list_entry_id": 547740132,
@@ -3292,7 +3366,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1775463781,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998833
+      "media_updated_at_unix": 1794081660
     },
     {
       "list_entry_id": 522563274,
@@ -3364,7 +3438,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1766382196,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998803
+      "media_updated_at_unix": 1794081624
     },
     {
       "list_entry_id": 499348338,
@@ -3447,7 +3521,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754978849,
       "list_updated_at_unix": 1792717622,
-      "media_updated_at_unix": 1793998807
+      "media_updated_at_unix": 1794081609
     },
     {
       "list_entry_id": 529605148,
@@ -3494,7 +3568,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1768734139,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998859
+      "media_updated_at_unix": 1794081665
     },
     {
       "list_entry_id": 475132140,
@@ -3597,7 +3671,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998812
+      "media_updated_at_unix": 1794081618
     },
     {
       "list_entry_id": 603038508,
@@ -3666,7 +3740,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791890573,
       "list_updated_at_unix": 1791903097,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081730
     },
     {
       "list_entry_id": 551607572,
@@ -3708,7 +3782,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776597143,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998933
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 551672681,
@@ -3764,7 +3838,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776617299,
       "list_updated_at_unix": 1791903091,
-      "media_updated_at_unix": 1793998908
+      "media_updated_at_unix": 1794081679
     },
     {
       "list_entry_id": 553671518,
@@ -3851,7 +3925,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777278043,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998848
+      "media_updated_at_unix": 1794081642
     },
     {
       "list_entry_id": 575137274,
@@ -3899,7 +3973,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782828499,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998843
+      "media_updated_at_unix": 1794081768
     },
     {
       "list_entry_id": 521493325,
@@ -3940,7 +4014,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1765885960,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794078165
     },
     {
       "list_entry_id": 552390725,
@@ -4024,7 +4098,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776869981,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998828
+      "media_updated_at_unix": 1794081655
     },
     {
       "list_entry_id": 604911457,
@@ -4085,7 +4159,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1792509843,
       "list_updated_at_unix": 1792652332,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 569138649,
@@ -4157,7 +4231,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1780925246,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998825
+      "media_updated_at_unix": 1794081669
     },
     {
       "list_entry_id": 475266484,
@@ -4242,7 +4316,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1745110839,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998815
+      "media_updated_at_unix": 1794081639
     },
     {
       "list_entry_id": 392176998,
@@ -4325,7 +4399,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998809
+      "media_updated_at_unix": 1794081660
     },
     {
       "list_entry_id": 525080332,
@@ -4400,7 +4474,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1767375253,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998822
+      "media_updated_at_unix": 1794081625
     },
     {
       "list_entry_id": 606013047,
@@ -4448,7 +4522,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1792943032,
       "list_updated_at_unix": 1792943032,
-      "media_updated_at_unix": 1793998814
+      "media_updated_at_unix": 1794081698
     },
     {
       "list_entry_id": 552055993,
@@ -4491,7 +4565,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776750926,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998916
+      "media_updated_at_unix": 1794078039
     },
     {
       "list_entry_id": 608507818,
@@ -4576,7 +4650,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1793785883,
       "list_updated_at_unix": 1793785883,
-      "media_updated_at_unix": 1793995208
+      "media_updated_at_unix": 1794081744
     },
     {
       "list_entry_id": 392176999,
@@ -4660,7 +4734,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998818
+      "media_updated_at_unix": 1794081678
     },
     {
       "list_entry_id": 545618277,
@@ -4735,7 +4809,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774879961,
       "list_updated_at_unix": 1791903099,
-      "media_updated_at_unix": 1793998832
+      "media_updated_at_unix": 1794081644
     },
     {
       "list_entry_id": 600754681,
@@ -4801,7 +4875,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791218786,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998829
+      "media_updated_at_unix": 1794081620
     },
     {
       "list_entry_id": 392176978,
@@ -4865,7 +4939,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903090,
-      "media_updated_at_unix": 1793998853
+      "media_updated_at_unix": 1794081619
     },
     {
       "list_entry_id": 605034587,
@@ -4913,7 +4987,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1792551526,
       "list_updated_at_unix": 1792551550,
-      "media_updated_at_unix": 1793973842
+      "media_updated_at_unix": 1794074571
     },
     {
       "list_entry_id": 605117025,
@@ -5008,7 +5082,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1792583751,
       "list_updated_at_unix": 1792989663,
-      "media_updated_at_unix": 1793998839
+      "media_updated_at_unix": 1794081658
     },
     {
       "list_entry_id": 392176990,
@@ -5118,7 +5192,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1792913127,
-      "media_updated_at_unix": 1793998905
+      "media_updated_at_unix": 1794078015
     },
     {
       "list_entry_id": 570979700,
@@ -5190,7 +5264,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1781540262,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998912
+      "media_updated_at_unix": 1794081638
     },
     {
       "list_entry_id": 553671570,
@@ -5251,7 +5325,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777278077,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998816
+      "media_updated_at_unix": 1794081630
     },
     {
       "list_entry_id": 574786494,
@@ -5306,7 +5380,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782728938,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998810
+      "media_updated_at_unix": 1794081616
     },
     {
       "list_entry_id": 545590321,
@@ -5396,7 +5470,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774870178,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998854
+      "media_updated_at_unix": 1794081623
     },
     {
       "list_entry_id": 545900449,
@@ -5471,7 +5545,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774972944,
       "list_updated_at_unix": 1791903089,
-      "media_updated_at_unix": 1793998858
+      "media_updated_at_unix": 1794081622
     },
     {
       "list_entry_id": 546157732,
@@ -5534,7 +5608,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1775048441,
       "list_updated_at_unix": 1791833172,
-      "media_updated_at_unix": 1793995354
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 531303693,
@@ -5583,7 +5657,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769323365,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998836
+      "media_updated_at_unix": 1794081641
     },
     {
       "list_entry_id": 392176984,
@@ -5640,7 +5714,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998820
+      "media_updated_at_unix": 1794081640
     },
     {
       "list_entry_id": 392176975,
@@ -5702,7 +5776,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903098,
-      "media_updated_at_unix": 1793998826
+      "media_updated_at_unix": 1794081630
     },
     {
       "list_entry_id": 499340591,
@@ -5781,7 +5855,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754973432,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998812
+      "media_updated_at_unix": 1794081617
     },
     {
       "list_entry_id": 392176987,
@@ -5843,7 +5917,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998856
+      "media_updated_at_unix": 1794081626
     },
     {
       "list_entry_id": 392176979,
@@ -5907,7 +5981,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998843
+      "media_updated_at_unix": 1794081627
     },
     {
       "list_entry_id": 392176993,
@@ -5984,7 +6058,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998827
+      "media_updated_at_unix": 1794081647
     },
     {
       "list_entry_id": 484291051,
@@ -6096,7 +6170,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1748411045,
       "list_updated_at_unix": 1791903089,
-      "media_updated_at_unix": 1793998818
+      "media_updated_at_unix": 1794081640
     },
     {
       "list_entry_id": 533005680,
@@ -6180,7 +6254,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769955656,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998919
+      "media_updated_at_unix": 1794081668
     },
     {
       "list_entry_id": 392176977,
@@ -6261,7 +6335,62 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1793015630,
-      "media_updated_at_unix": 1793998856
+      "media_updated_at_unix": 1794081711
+    },
+    {
+      "list_entry_id": 609105963,
+      "media_id": 142770,
+      "title": {
+        "english": "Suzume",
+        "romaji": "Suzume no Tojimari",
+        "native": "すずめの戸締まり"
+      },
+      "status": "PLANNING",
+      "progress": 0,
+      "score": 0,
+      "started_at": null,
+      "completed_at": null,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": [
+        {
+          "id": 291,
+          "name": "CoMix Wave",
+          "is_main": true,
+          "is_animation_studio": true
+        },
+        {
+          "id": 6433,
+          "name": "STORY Inc.",
+          "is_main": false,
+          "is_animation_studio": false
+        },
+        {
+          "id": 245,
+          "name": "Toho",
+          "is_main": false,
+          "is_animation_studio": false
+        }
+      ],
+      "release_year": 2022,
+      "release_date": {
+        "year": 2022,
+        "month": 11,
+        "day": 11
+      },
+      "episode_count": 1,
+      "format": "MOVIE",
+      "site_url": "https://anilist.co/anime/142770",
+      "custom_lists": [],
+      "hidden_from_status_lists": false,
+      "repeat_count": 0,
+      "list_created_at_unix": 1794032007,
+      "list_updated_at_unix": 1794032007,
+      "media_updated_at_unix": 1794081687
     },
     {
       "list_entry_id": 392176994,
@@ -6338,7 +6467,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995239
+      "media_updated_at_unix": 1794081693
     },
     {
       "list_entry_id": 392176988,
@@ -6394,7 +6523,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998831
+      "media_updated_at_unix": 1794081676
     },
     {
       "list_entry_id": 591933785,
@@ -6448,7 +6577,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788131538,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995246
+      "media_updated_at_unix": 1794081719
     },
     {
       "list_entry_id": 487194899,
@@ -6515,7 +6644,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1749832849,
       "list_updated_at_unix": 1791903095,
-      "media_updated_at_unix": 1793995295
+      "media_updated_at_unix": 1794078044
     },
     {
       "list_entry_id": 545267415,
@@ -6602,7 +6731,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774787483,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998871
+      "media_updated_at_unix": 1794081661
     },
     {
       "list_entry_id": 522877633,
@@ -6679,7 +6808,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1766531051,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998819
+      "media_updated_at_unix": 1794081630
     },
     {
       "list_entry_id": 475132141,
@@ -6773,7 +6902,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998874
+      "media_updated_at_unix": 1794081631
     },
     {
       "list_entry_id": 475132142,
@@ -6870,7 +6999,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998873
+      "media_updated_at_unix": 1794081635
     },
     {
       "list_entry_id": 536061504,
@@ -6944,7 +7073,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1771300408,
       "list_updated_at_unix": 1791903087,
-      "media_updated_at_unix": 1793998819
+      "media_updated_at_unix": 1794081611
     },
     {
       "list_entry_id": 592539365,
@@ -7052,7 +7181,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788360095,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794081672
     },
     {
       "list_entry_id": 392176969,
@@ -7121,7 +7250,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998846
+      "media_updated_at_unix": 1794081666
     },
     {
       "list_entry_id": 553200537,
@@ -7178,7 +7307,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777132749,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998833
+      "media_updated_at_unix": 1794081645
     },
     {
       "list_entry_id": 514278250,
@@ -7238,7 +7367,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1761910903,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995209
+      "media_updated_at_unix": 1794081627
     },
     {
       "list_entry_id": 551607193,
@@ -7328,7 +7457,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776596874,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998833
+      "media_updated_at_unix": 1794081621
     },
     {
       "list_entry_id": 489889880,
@@ -7387,7 +7516,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1751098356,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998822
+      "media_updated_at_unix": 1794078027
     },
     {
       "list_entry_id": 592537953,
@@ -7453,7 +7582,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788359323,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998826
+      "media_updated_at_unix": 1794081675
     },
     {
       "list_entry_id": 608526853,
@@ -7554,7 +7683,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1793794502,
       "list_updated_at_unix": 1793794502,
-      "media_updated_at_unix": 1793998838
+      "media_updated_at_unix": 1794081677
     },
     {
       "list_entry_id": 392176992,
@@ -7640,7 +7769,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903093,
-      "media_updated_at_unix": 1793988031
+      "media_updated_at_unix": 1794081607
     },
     {
       "list_entry_id": 564524788,
@@ -7723,7 +7852,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1779593405,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998809
+      "media_updated_at_unix": 1794081617
     },
     {
       "list_entry_id": 392176980,
@@ -7789,7 +7918,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998849
+      "media_updated_at_unix": 1794081680
     },
     {
       "list_entry_id": 553457326,
@@ -7873,7 +8002,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777212441,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998849
+      "media_updated_at_unix": 1794081608
     },
     {
       "list_entry_id": 475132138,
@@ -7935,7 +8064,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791833135,
-      "media_updated_at_unix": 1793998822
+      "media_updated_at_unix": 1794081610
     },
     {
       "list_entry_id": 575139330,
@@ -7977,7 +8106,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782828844,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998846
+      "media_updated_at_unix": 1794081701
     },
     {
       "list_entry_id": 570972382,
@@ -8037,7 +8166,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1781539723,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998842
+      "media_updated_at_unix": 1794081721
     },
     {
       "list_entry_id": 392176970,
@@ -8106,7 +8235,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998853
+      "media_updated_at_unix": 1794081669
     },
     {
       "list_entry_id": 590237332,
@@ -8155,7 +8284,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1787485842,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998817
+      "media_updated_at_unix": 1794081646
     },
     {
       "list_entry_id": 531371424,
@@ -8221,7 +8350,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769350388,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998810
+      "media_updated_at_unix": 1794081620
     },
     {
       "list_entry_id": 564524759,
@@ -8281,7 +8410,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1779593389,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794081627
     },
     {
       "list_entry_id": 538801404,
@@ -8372,7 +8501,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1772512121,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998841
+      "media_updated_at_unix": 1794081622
     },
     {
       "list_entry_id": 475132133,
@@ -8464,7 +8593,7 @@
       "repeat_count": 2,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998856
+      "media_updated_at_unix": 1794081739
     },
     {
       "list_entry_id": 517722621,
@@ -8565,7 +8694,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1763808825,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794081647
     },
     {
       "list_entry_id": 485146415,
@@ -8612,7 +8741,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1748795246,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793991641
+      "media_updated_at_unix": 1794081644
     },
     {
       "list_entry_id": 493705218,
@@ -8695,7 +8824,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1752448545,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794081608
     },
     {
       "list_entry_id": 486312181,
@@ -8801,7 +8930,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1749362755,
       "list_updated_at_unix": 1791903097,
-      "media_updated_at_unix": 1793995265
+      "media_updated_at_unix": 1794081699
     },
     {
       "list_entry_id": 603078568,
@@ -8855,7 +8984,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1791903547,
       "list_updated_at_unix": 1791903547,
-      "media_updated_at_unix": 1793998863
+      "media_updated_at_unix": 1794081745
     },
     {
       "list_entry_id": 592538092,
@@ -8926,7 +9055,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788359396,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998861
+      "media_updated_at_unix": 1794081632
     },
     {
       "list_entry_id": 537638963,
@@ -8985,7 +9114,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1772016633,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998939
+      "media_updated_at_unix": 1794081640
     },
     {
       "list_entry_id": 483983147,
@@ -9057,7 +9186,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1748272159,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998807
+      "media_updated_at_unix": 1794081625
     },
     {
       "list_entry_id": 576079785,
@@ -9144,7 +9273,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1783074089,
       "list_updated_at_unix": 1793009737,
-      "media_updated_at_unix": 1793998843
+      "media_updated_at_unix": 1794081628
     },
     {
       "list_entry_id": 475132135,
@@ -9205,7 +9334,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998831
+      "media_updated_at_unix": 1794081646
     },
     {
       "list_entry_id": 533621470,
@@ -9265,7 +9394,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1770198400,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998848
+      "media_updated_at_unix": 1794081686
     },
     {
       "list_entry_id": 497449780,
@@ -9357,7 +9486,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754037990,
       "list_updated_at_unix": 1791903093,
-      "media_updated_at_unix": 1793998817
+      "media_updated_at_unix": 1794081609
     },
     {
       "list_entry_id": 525682720,
@@ -9419,7 +9548,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1767534160,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998870
+      "media_updated_at_unix": 1794081656
     },
     {
       "list_entry_id": 500017693,
@@ -9503,7 +9632,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1755337780,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998873
+      "media_updated_at_unix": 1794081647
     },
     {
       "list_entry_id": 592240046,
@@ -9560,7 +9689,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788233197,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998841
+      "media_updated_at_unix": 1794081647
     },
     {
       "list_entry_id": 521649838,
@@ -9614,7 +9743,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1765964897,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998819
+      "media_updated_at_unix": 1794081676
     },
     {
       "list_entry_id": 491314192,
@@ -9693,7 +9822,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1751643840,
       "list_updated_at_unix": 1791833397,
-      "media_updated_at_unix": 1793998817
+      "media_updated_at_unix": 1794081707
     },
     {
       "list_entry_id": 491047654,
@@ -9802,7 +9931,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1751548022,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998829
+      "media_updated_at_unix": 1794081634
     },
     {
       "list_entry_id": 493705123,
@@ -9867,7 +9996,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1752448506,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998882
+      "media_updated_at_unix": 1794081627
     },
     {
       "list_entry_id": 497449803,
@@ -9962,7 +10091,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754038034,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998918
+      "media_updated_at_unix": 1794078010
     },
     {
       "list_entry_id": 484290854,
@@ -10048,7 +10177,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1748410871,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998818
+      "media_updated_at_unix": 1794081623
     },
     {
       "list_entry_id": 475132139,
@@ -10096,7 +10225,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998945
+      "media_updated_at_unix": 1794081700
     },
     {
       "list_entry_id": 486651077,
@@ -10163,7 +10292,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1749530733,
       "list_updated_at_unix": 1791903087,
-      "media_updated_at_unix": 1793998951
+      "media_updated_at_unix": 1794081689
     },
     {
       "list_entry_id": 475132137,
@@ -10249,7 +10378,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903097,
-      "media_updated_at_unix": 1793998818
+      "media_updated_at_unix": 1794081612
     },
     {
       "list_entry_id": 475132143,
@@ -10318,7 +10447,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791903095,
-      "media_updated_at_unix": 1793998824
+      "media_updated_at_unix": 1794081614
     },
     {
       "list_entry_id": 491047610,
@@ -10424,7 +10553,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1751547991,
       "list_updated_at_unix": 1791833362,
-      "media_updated_at_unix": 1793995318
+      "media_updated_at_unix": 1794081727
     },
     {
       "list_entry_id": 480724281,
@@ -10469,7 +10598,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1747027053,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998823
+      "media_updated_at_unix": 1794081677
     },
     {
       "list_entry_id": 524203719,
@@ -10511,7 +10640,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1767098437,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998887
+      "media_updated_at_unix": 1794081659
     },
     {
       "list_entry_id": 498224636,
@@ -10570,7 +10699,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1754389305,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793995324
+      "media_updated_at_unix": 1794078124
     },
     {
       "list_entry_id": 530623727,
@@ -10642,7 +10771,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1769081573,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998826
+      "media_updated_at_unix": 1794081606
     },
     {
       "list_entry_id": 483624576,
@@ -10698,7 +10827,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1748131615,
       "list_updated_at_unix": 1791903094,
-      "media_updated_at_unix": 1793998809
+      "media_updated_at_unix": 1794081645
     },
     {
       "list_entry_id": 489859194,
@@ -10748,7 +10877,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1751079676,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998829
+      "media_updated_at_unix": 1794081655
     },
     {
       "list_entry_id": 599766118,
@@ -10759,8 +10888,8 @@
         "native": "とある暗部の少女共棲"
       },
       "status": "CURRENT",
-      "progress": 1,
-      "score": 0,
+      "progress": 3,
+      "score": 4.5,
       "started_at": {
         "year": 2026,
         "month": 10,
@@ -10792,8 +10921,8 @@
       "hidden_from_status_lists": false,
       "repeat_count": 0,
       "list_created_at_unix": 1790953759,
-      "list_updated_at_unix": 1793104833,
-      "media_updated_at_unix": 1793998803
+      "list_updated_at_unix": 1794068086,
+      "media_updated_at_unix": 1794081620
     },
     {
       "list_entry_id": 599772624,
@@ -10840,7 +10969,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1790956271,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998818
+      "media_updated_at_unix": 1794081634
     },
     {
       "list_entry_id": 560896440,
@@ -10944,7 +11073,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1778681172,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998827
+      "media_updated_at_unix": 1794081625
     },
     {
       "list_entry_id": 505395814,
@@ -11044,7 +11173,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1758194541,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793991654
+      "media_updated_at_unix": 1794078165
     },
     {
       "list_entry_id": 475132134,
@@ -11087,7 +11216,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 0,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998805
+      "media_updated_at_unix": 1794078165
     },
     {
       "list_entry_id": 579139337,
@@ -11166,7 +11295,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1783746579,
       "list_updated_at_unix": 1792332545,
-      "media_updated_at_unix": 1793998833
+      "media_updated_at_unix": 1794081623
     },
     {
       "list_entry_id": 592240065,
@@ -11178,7 +11307,7 @@
       },
       "status": "CURRENT",
       "progress": 5,
-      "score": 0,
+      "score": 7,
       "started_at": {
         "year": 2026,
         "month": 10,
@@ -11235,8 +11364,8 @@
       "hidden_from_status_lists": false,
       "repeat_count": 0,
       "list_created_at_unix": 1788233208,
-      "list_updated_at_unix": 1793544566,
-      "media_updated_at_unix": 1793998818
+      "list_updated_at_unix": 1794068090,
+      "media_updated_at_unix": 1794081603
     },
     {
       "list_entry_id": 551325776,
@@ -11284,7 +11413,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1776498054,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998893
+      "media_updated_at_unix": 1794081662
     },
     {
       "list_entry_id": 554465828,
@@ -11359,7 +11488,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777544580,
       "list_updated_at_unix": 1791810575,
-      "media_updated_at_unix": 1793991702
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 564077097,
@@ -11447,7 +11576,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1779464643,
       "list_updated_at_unix": 1792583780,
-      "media_updated_at_unix": 1793998836
+      "media_updated_at_unix": 1794081603
     },
     {
       "list_entry_id": 538302440,
@@ -11510,7 +11639,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1772324448,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998873
+      "media_updated_at_unix": 1794078075
     },
     {
       "list_entry_id": 580841012,
@@ -11581,7 +11710,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1784205240,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998829
+      "media_updated_at_unix": 1794081635
     },
     {
       "list_entry_id": 554465929,
@@ -11613,7 +11742,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1777544656,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998973
+      "media_updated_at_unix": 1794078060
     },
     {
       "list_entry_id": 599753399,
@@ -11706,7 +11835,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1790948581,
       "list_updated_at_unix": 1793102203,
-      "media_updated_at_unix": 1793998816
+      "media_updated_at_unix": 1794081629
     },
     {
       "list_entry_id": 569138513,
@@ -11774,7 +11903,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1780925172,
       "list_updated_at_unix": 1791903088,
-      "media_updated_at_unix": 1793998826
+      "media_updated_at_unix": 1794081609
     },
     {
       "list_entry_id": 536061137,
@@ -11835,7 +11964,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1771300361,
       "list_updated_at_unix": 1792583879,
-      "media_updated_at_unix": 1793998896
+      "media_updated_at_unix": 1794078017
     },
     {
       "list_entry_id": 546116840,
@@ -11892,7 +12021,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1775035302,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998880
+      "media_updated_at_unix": 1794081615
     },
     {
       "list_entry_id": 545257707,
@@ -11940,7 +12069,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1774785678,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998837
+      "media_updated_at_unix": 1794081608
     },
     {
       "list_entry_id": 592229710,
@@ -11988,7 +12117,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788228665,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998871
+      "media_updated_at_unix": 1794070953
     },
     {
       "list_entry_id": 572758749,
@@ -12032,7 +12161,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1782108968,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998840
+      "media_updated_at_unix": 1794081772
     },
     {
       "list_entry_id": 592240168,
@@ -12099,7 +12228,7 @@
       "repeat_count": 0,
       "list_created_at_unix": 1788233279,
       "list_updated_at_unix": 1791377334,
-      "media_updated_at_unix": 1793998811
+      "media_updated_at_unix": 1794081633
     }
   ]
 }
