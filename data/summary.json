@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-07T20:45:01Z",
+  "refreshed_at_utc": "2026-11-08T21:00:40Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 175,
   "completed_count": 65,
-  "currently_watching_count": 3,
+  "currently_watching_count": 4,
   "status_counts": {
     "COMPLETED": 65,
-    "CURRENT": 3,
+    "CURRENT": 4,
     "DROPPED": 6,
     "PAUSED": 1,
-    "PLANNING": 100,
+    "PLANNING": 99,
     "REPEATING": 0
   },
   "rated_entries": 68,
@@ -460,7 +460,7 @@
       "title": "Even the Student Council Has Its Holes!",
       "status": "CURRENT",
       "score": 7,
-      "progress": 5,
+      "progress": 6,
       "episode_count": 12,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/191656"
@@ -470,10 +470,20 @@
       "title": "FX Fighter Kurumi-chan",
       "status": "CURRENT",
       "score": 0,
-      "progress": 4,
+      "progress": 5,
       "episode_count": 12,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/206401"
+    },
+    {
+      "media_id": 101291,
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "status": "CURRENT",
+      "score": 0,
+      "progress": 2,
+      "episode_count": 13,
+      "completed_at": null,
+      "site_url": "https://anilist.co/anime/101291"
     }
   ],
   "viewing_statistics_by_year": [

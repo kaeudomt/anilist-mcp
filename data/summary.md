@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-07T20:45:01Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-08T21:00:40Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -8,13 +8,13 @@ For questions about every title or detailed metadata, see [anime-list.json](anim
 
 - Total entries: **175**
 - Completed: **65**
-- Currently watching: **3**
+- Currently watching: **4**
 - Rated entries: **68**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
 - Mean / median of positive personal scores: **6.984 / 7.45**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
+Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 99, REPEATING 0.
 
 ## Ten highest-rated anime
 
@@ -34,8 +34,9 @@ Status counts: COMPLETED 65, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 ## Currently watching
 
 - A Certain Dark Item: episode 3/?; 4.5.
-- Even the Student Council Has Its Holes!: episode 5/12; 7.
-- FX Fighter Kurumi-chan: episode 4/12; unrated.
+- Even the Student Council Has Its Holes!: episode 6/12; 7.
+- FX Fighter Kurumi-chan: episode 5/12; unrated.
+- Rascal Does Not Dream of Bunny Girl Senpai: episode 2/13; unrated.
 
 ## Recently completed
 
