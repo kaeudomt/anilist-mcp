@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-08T21:00:40Z",
+  "refreshed_at_utc": "2026-11-10T00:38:11Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 175,
@@ -480,7 +480,7 @@
       "title": "Rascal Does Not Dream of Bunny Girl Senpai",
       "status": "CURRENT",
       "score": 0,
-      "progress": 2,
+      "progress": 5,
       "episode_count": 13,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/101291"

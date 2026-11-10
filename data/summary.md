@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-08T21:00:40Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-10T00:38:11Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -36,7 +36,7 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 99, REPEAT
 - A Certain Dark Item: episode 3/?; 4.5.
 - Even the Student Council Has Its Holes!: episode 6/12; 7.
 - FX Fighter Kurumi-chan: episode 5/12; unrated.
-- Rascal Does Not Dream of Bunny Girl Senpai: episode 2/13; unrated.
+- Rascal Does Not Dream of Bunny Girl Senpai: episode 5/13; unrated.
 
 ## Recently completed
 
