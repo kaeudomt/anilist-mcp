@@ -1,20 +1,20 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-11T23:23:51Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-12T22:39:48Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
 ## Counts and scores
 
-- Total entries: **175**
+- Total entries: **176**
 - Completed: **65**
 - Currently watching: **4**
-- Rated entries: **68**
+- Rated entries: **69**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **6.984 / 7.45**
+- Mean / median of positive personal scores: **6.974 / 7.4**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 99, REPEATING 0.
+Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
 
 ## Ten highest-rated anime
 
@@ -35,7 +35,7 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 99, REPEAT
 
 - A Certain Dark Item: episode 3/?; 4.5.
 - Even the Student Council Has Its Holes!: episode 6/12; 7.
-- FX Fighter Kurumi-chan: episode 5/12; unrated.
+- FX Fighter Kurumi-chan: episode 6/12; 6.3.
 - Rascal Does Not Dream of Bunny Girl Senpai: episode 5/13; unrated.
 
 ## Recently completed
@@ -67,7 +67,7 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 99, REPEAT
 | 5.4 | 1 |
 | 5.8 | 1 |
 | 6 | 2 |
-| 6.3 | 1 |
+| 6.3 | 2 |
 | 6.5 | 3 |
 | 6.6 | 1 |
 | 6.8 | 2 |
@@ -125,4 +125,4 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2023 | 4 | 8.0 | 7.75 |
 | 2024 | 3 | 7.533 | 7.5 |
 | 2025 | 13 | 5.854 | 6.8 |
-| 2026 | 12 | 5.6 | 5.300000000000001 |
+| 2026 | 13 | 5.654 | 5.4 |
