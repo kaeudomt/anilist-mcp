@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-14T21:15:53Z",
+  "refreshed_at_utc": "2026-11-15T21:36:54Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
-  "total_entries": 176,
-  "completed_count": 65,
-  "currently_watching_count": 4,
+  "total_entries": 177,
+  "completed_count": 66,
+  "currently_watching_count": 3,
   "status_counts": {
-    "COMPLETED": 65,
-    "CURRENT": 4,
+    "COMPLETED": 66,
+    "CURRENT": 3,
     "DROPPED": 6,
     "PAUSED": 1,
-    "PLANNING": 100,
+    "PLANNING": 101,
     "REPEATING": 0
   },
-  "rated_entries": 69,
-  "mean_score": 6.935,
+  "rated_entries": 70,
+  "mean_score": 6.926,
   "median_score": 7.4,
   "score_distribution": [
     {
@@ -81,6 +81,10 @@
     },
     {
       "score": 6.6,
+      "count": 2
+    },
+    {
+      "score": 6.7,
       "count": 1
     },
     {
@@ -89,7 +93,7 @@
     },
     {
       "score": 7,
-      "count": 5
+      "count": 4
     },
     {
       "score": 7.3,
@@ -308,6 +312,20 @@
   ],
   "recently_completed": [
     {
+      "media_id": 101291,
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "status": "COMPLETED",
+      "score": 6.7,
+      "progress": 13,
+      "episode_count": 13,
+      "completed_at": {
+        "year": 2026,
+        "month": 11,
+        "day": 15
+      },
+      "site_url": "https://anilist.co/anime/101291"
+    },
+    {
       "media_id": 114745,
       "title": "Made in Abyss: The Golden City of the Scorching Sun",
       "status": "COMPLETED",
@@ -432,20 +450,6 @@
         "day": 8
       },
       "site_url": "https://anilist.co/anime/16934"
-    },
-    {
-      "media_id": 14741,
-      "title": "Love, Chunibyo & Other Delusions",
-      "status": "COMPLETED",
-      "score": 8.6,
-      "progress": 12,
-      "episode_count": 12,
-      "completed_at": {
-        "year": 2026,
-        "month": 10,
-        "day": 8
-      },
-      "site_url": "https://anilist.co/anime/14741"
     }
   ],
   "currently_watching": [
@@ -478,16 +482,6 @@
       "episode_count": 12,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/206401"
-    },
-    {
-      "media_id": 101291,
-      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-      "status": "CURRENT",
-      "score": 0,
-      "progress": 5,
-      "episode_count": 13,
-      "completed_at": null,
-      "site_url": "https://anilist.co/anime/101291"
     }
   ],
   "viewing_statistics_by_year": [
@@ -514,7 +508,7 @@
     {
       "year": 2026,
       "started": 36,
-      "completed": 33
+      "completed": 34
     }
   ],
   "ratings_by_release_year": [
@@ -533,8 +527,8 @@
     {
       "year": 2010,
       "rated_entries": 2,
-      "mean_score": 7.2,
-      "median_score": 7.2
+      "mean_score": 7.0,
+      "median_score": 7.0
     },
     {
       "year": 2011,
@@ -580,9 +574,9 @@
     },
     {
       "year": 2018,
-      "rated_entries": 1,
-      "mean_score": 8.2,
-      "median_score": 8.2
+      "rated_entries": 2,
+      "mean_score": 7.45,
+      "median_score": 7.449999999999999
     },
     {
       "year": 2019,

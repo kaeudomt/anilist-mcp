@@ -1,20 +1,20 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-14T21:15:53Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-15T21:36:54Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
 ## Counts and scores
 
-- Total entries: **176**
-- Completed: **65**
-- Currently watching: **4**
-- Rated entries: **69**
+- Total entries: **177**
+- Completed: **66**
+- Currently watching: **3**
+- Rated entries: **70**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **6.935 / 7.4**
+- Mean / median of positive personal scores: **6.926 / 7.4**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
+Status counts: COMPLETED 66, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 101, REPEATING 0.
 
 ## Ten highest-rated anime
 
@@ -36,10 +36,10 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 - A Certain Dark Item: episode 3/?; 4.5.
 - Even the Student Council Has Its Holes!: episode 6/12; 7.
 - FX Fighter Kurumi-chan: episode 7/12; 3.6.
-- Rascal Does Not Dream of Bunny Girl Senpai: episode 5/13; unrated.
 
 ## Recently completed
 
+- 2026-11-15: Rascal Does Not Dream of Bunny Girl Senpai (6.7).
 - 2026-10-25: Made in Abyss: The Golden City of the Scorching Sun (8.5).
 - 2026-10-21: To You in the Beyond (7).
 - 2026-10-20: Marulk's Daily Life (6.5).
@@ -49,7 +49,6 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 - 2026-10-13: Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn (8.5).
 - 2026-10-13: Love, Chunibyo & Other Delusions - Heart Throb - (8.6).
 - 2026-10-08: Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel) (8.2).
-- 2026-10-08: Love, Chunibyo & Other Delusions (8.6).
 
 ## Score distribution
 
@@ -70,9 +69,10 @@ Status counts: COMPLETED 65, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 | 6 | 2 |
 | 6.3 | 1 |
 | 6.5 | 3 |
-| 6.6 | 1 |
+| 6.6 | 2 |
+| 6.7 | 1 |
 | 6.8 | 2 |
-| 7 | 5 |
+| 7 | 4 |
 | 7.3 | 2 |
 | 7.4 | 2 |
 | 7.5 | 4 |
@@ -102,7 +102,7 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2023 | 10 | 12 |
 | 2024 | 5 | 5 |
 | 2025 | 19 | 13 |
-| 2026 | 36 | 33 |
+| 2026 | 36 | 34 |
 
 ## Ratings by release year
 
@@ -110,7 +110,7 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | ---: | ---: | ---: | ---: |
 | 2008 | 1 | 9.2 | 9.2 |
 | 2009 | 1 | 7.4 | 7.4 |
-| 2010 | 2 | 7.2 | 7.2 |
+| 2010 | 2 | 7.0 | 7.0 |
 | 2011 | 1 | 7.3 | 7.3 |
 | 2012 | 1 | 8.6 | 8.6 |
 | 2013 | 2 | 6.6 | 6.6 |
@@ -118,7 +118,7 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2015 | 1 | 8.4 | 8.4 |
 | 2016 | 3 | 7.567 | 7.8 |
 | 2017 | 2 | 8.5 | 8.5 |
-| 2018 | 1 | 8.2 | 8.2 |
+| 2018 | 2 | 7.45 | 7.449999999999999 |
 | 2019 | 2 | 9 | 9.0 |
 | 2020 | 4 | 7.925 | 7.95 |
 | 2021 | 4 | 7.4 | 7.65 |
