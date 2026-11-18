@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-17T23:47:51Z",
+  "refreshed_at_utc": "2026-11-18T23:19:51Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
   "completed_count": 66,
-  "currently_watching_count": 3,
+  "currently_watching_count": 4,
   "status_counts": {
     "COMPLETED": 66,
-    "CURRENT": 3,
+    "CURRENT": 4,
     "DROPPED": 6,
     "PAUSED": 1,
-    "PLANNING": 101,
+    "PLANNING": 100,
     "REPEATING": 0
   },
-  "rated_entries": 70,
-  "mean_score": 6.926,
+  "rated_entries": 71,
+  "mean_score": 6.931,
   "median_score": 7.4,
   "score_distribution": [
     {
@@ -84,16 +84,16 @@
       "count": 2
     },
     {
-      "score": 6.7,
-      "count": 1
-    },
-    {
       "score": 6.8,
-      "count": 2
+      "count": 3
     },
     {
       "score": 7,
       "count": 4
+    },
+    {
+      "score": 7.2,
+      "count": 1
     },
     {
       "score": 7.3,
@@ -315,7 +315,7 @@
       "media_id": 101291,
       "title": "Rascal Does Not Dream of Bunny Girl Senpai",
       "status": "COMPLETED",
-      "score": 6.7,
+      "score": 7.2,
       "progress": 13,
       "episode_count": 13,
       "completed_at": {
@@ -464,6 +464,16 @@
       "site_url": "https://anilist.co/anime/186742"
     },
     {
+      "media_id": 127230,
+      "title": "Chainsaw Man",
+      "status": "CURRENT",
+      "score": 7.3,
+      "progress": 3,
+      "episode_count": 12,
+      "completed_at": null,
+      "site_url": "https://anilist.co/anime/127230"
+    },
+    {
       "media_id": 191656,
       "title": "Even the Student Council Has Its Holes!",
       "status": "CURRENT",
@@ -507,7 +517,7 @@
     },
     {
       "year": 2026,
-      "started": 36,
+      "started": 37,
       "completed": 34
     }
   ],
@@ -575,8 +585,8 @@
     {
       "year": 2018,
       "rated_entries": 2,
-      "mean_score": 7.45,
-      "median_score": 7.449999999999999
+      "mean_score": 7.7,
+      "median_score": 7.699999999999999
     },
     {
       "year": 2019,
@@ -593,14 +603,14 @@
     {
       "year": 2021,
       "rated_entries": 4,
-      "mean_score": 7.4,
-      "median_score": 7.65
+      "mean_score": 7.275,
+      "median_score": 7.4
     },
     {
       "year": 2022,
-      "rated_entries": 9,
-      "mean_score": 7.133,
-      "median_score": 7.6
+      "rated_entries": 10,
+      "mean_score": 7.15,
+      "median_score": 7.55
     },
     {
       "year": 2023,

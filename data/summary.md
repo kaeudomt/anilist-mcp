@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-17T23:47:51Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-18T23:19:51Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -8,13 +8,13 @@ For questions about every title or detailed metadata, see [anime-list.json](anim
 
 - Total entries: **177**
 - Completed: **66**
-- Currently watching: **3**
-- Rated entries: **70**
+- Currently watching: **4**
+- Rated entries: **71**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **6.926 / 7.4**
+- Mean / median of positive personal scores: **6.931 / 7.4**
 - Zero or missing scores are excluded from score statistics.
 
-Status counts: COMPLETED 66, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 101, REPEATING 0.
+Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
 
 ## Ten highest-rated anime
 
@@ -34,12 +34,13 @@ Status counts: COMPLETED 66, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 101, REPEA
 ## Currently watching
 
 - A Certain Dark Item: episode 3/?; 4.5.
+- Chainsaw Man: episode 3/12; 7.3.
 - Even the Student Council Has Its Holes!: episode 6/12; 7.
 - FX Fighter Kurumi-chan: episode 7/12; 3.6.
 
 ## Recently completed
 
-- 2026-11-15: Rascal Does Not Dream of Bunny Girl Senpai (6.7).
+- 2026-11-15: Rascal Does Not Dream of Bunny Girl Senpai (7.2).
 - 2026-10-25: Made in Abyss: The Golden City of the Scorching Sun (8.5).
 - 2026-10-21: To You in the Beyond (7).
 - 2026-10-20: Marulk's Daily Life (6.5).
@@ -70,9 +71,9 @@ Status counts: COMPLETED 66, CURRENT 3, DROPPED 6, PAUSED 1, PLANNING 101, REPEA
 | 6.3 | 1 |
 | 6.5 | 3 |
 | 6.6 | 2 |
-| 6.7 | 1 |
-| 6.8 | 2 |
+| 6.8 | 3 |
 | 7 | 4 |
+| 7.2 | 1 |
 | 7.3 | 2 |
 | 7.4 | 2 |
 | 7.5 | 4 |
@@ -102,7 +103,7 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2023 | 10 | 12 |
 | 2024 | 5 | 5 |
 | 2025 | 19 | 13 |
-| 2026 | 36 | 34 |
+| 2026 | 37 | 34 |
 
 ## Ratings by release year
 
@@ -118,11 +119,11 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2015 | 1 | 8.4 | 8.4 |
 | 2016 | 3 | 7.567 | 7.8 |
 | 2017 | 2 | 8.5 | 8.5 |
-| 2018 | 2 | 7.45 | 7.449999999999999 |
+| 2018 | 2 | 7.7 | 7.699999999999999 |
 | 2019 | 2 | 9 | 9.0 |
 | 2020 | 4 | 7.925 | 7.95 |
-| 2021 | 4 | 7.4 | 7.65 |
-| 2022 | 9 | 7.133 | 7.6 |
+| 2021 | 4 | 7.275 | 7.4 |
+| 2022 | 10 | 7.15 | 7.55 |
 | 2023 | 4 | 8.0 | 7.75 |
 | 2024 | 3 | 7.533 | 7.5 |
 | 2025 | 13 | 5.854 | 6.8 |
