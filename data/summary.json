@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-18T23:19:51Z",
+  "refreshed_at_utc": "2026-11-19T23:28:12Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
@@ -16,7 +16,7 @@
     "REPEATING": 0
   },
   "rated_entries": 71,
-  "mean_score": 6.931,
+  "mean_score": 6.923,
   "median_score": 7.4,
   "score_distribution": [
     {
@@ -84,6 +84,10 @@
       "count": 2
     },
     {
+      "score": 6.7,
+      "count": 1
+    },
+    {
       "score": 6.8,
       "count": 3
     },
@@ -97,7 +101,7 @@
     },
     {
       "score": 7.3,
-      "count": 2
+      "count": 1
     },
     {
       "score": 7.4,
@@ -467,8 +471,8 @@
       "media_id": 127230,
       "title": "Chainsaw Man",
       "status": "CURRENT",
-      "score": 7.3,
-      "progress": 3,
+      "score": 6.7,
+      "progress": 5,
       "episode_count": 12,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/127230"
@@ -609,7 +613,7 @@
     {
       "year": 2022,
       "rated_entries": 10,
-      "mean_score": 7.15,
+      "mean_score": 7.09,
       "median_score": 7.55
     },
     {
