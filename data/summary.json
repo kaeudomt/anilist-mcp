@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-19T23:28:12Z",
+  "refreshed_at_utc": "2026-11-20T23:00:51Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
@@ -463,7 +463,7 @@
       "status": "CURRENT",
       "score": 4.5,
       "progress": 3,
-      "episode_count": null,
+      "episode_count": 11,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/186742"
     },
