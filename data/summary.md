@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-21T22:06:14Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-22T22:22:27Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -11,7 +11,7 @@ For questions about every title or detailed metadata, see [anime-list.json](anim
 - Currently watching: **4**
 - Rated entries: **71**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **6.876 / 7.4**
+- Mean / median of positive personal scores: **6.875 / 7.4**
 - Zero or missing scores are excluded from score statistics.
 
 Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
@@ -34,7 +34,7 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 ## Currently watching
 
 - A Certain Dark Item: episode 3/11; 4.5.
-- Chainsaw Man: episode 5/12; 6.7.
+- Chainsaw Man: episode 6/12; 6.6.
 - Even the Student Council Has Its Holes!: episode 7/12; 3.7.
 - FX Fighter Kurumi-chan: episode 8/12; 3.6.
 
@@ -71,8 +71,7 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 | 6 | 2 |
 | 6.3 | 1 |
 | 6.5 | 3 |
-| 6.6 | 2 |
-| 6.7 | 1 |
+| 6.6 | 3 |
 | 6.8 | 3 |
 | 7 | 3 |
 | 7.2 | 1 |
@@ -125,7 +124,7 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2019 | 2 | 9 | 9.0 |
 | 2020 | 4 | 7.925 | 7.95 |
 | 2021 | 4 | 7.275 | 7.4 |
-| 2022 | 10 | 7.09 | 7.55 |
+| 2022 | 10 | 7.08 | 7.55 |
 | 2023 | 4 | 8.0 | 7.75 |
 | 2024 | 3 | 7.533 | 7.5 |
 | 2025 | 13 | 5.854 | 6.8 |
