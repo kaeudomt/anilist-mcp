@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-22T22:22:27Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-24T03:13:07Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -35,7 +35,7 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 
 - A Certain Dark Item: episode 3/11; 4.5.
 - Chainsaw Man: episode 6/12; 6.6.
-- Even the Student Council Has Its Holes!: episode 7/12; 3.7.
+- Even the Student Council Has Its Holes!: episode 8/12; 3.7.
 - FX Fighter Kurumi-chan: episode 8/12; 3.6.
 
 ## Recently completed
