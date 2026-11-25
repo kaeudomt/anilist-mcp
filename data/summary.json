@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-24T03:13:07Z",
+  "refreshed_at_utc": "2026-11-25T01:18:37Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
@@ -16,16 +16,20 @@
     "REPEATING": 0
   },
   "rated_entries": 71,
-  "mean_score": 6.875,
+  "mean_score": 6.892,
   "median_score": 7.4,
   "score_distribution": [
+    {
+      "score": 2,
+      "count": 1
+    },
     {
       "score": 2.3,
       "count": 1
     },
     {
       "score": 2.8,
-      "count": 2
+      "count": 1
     },
     {
       "score": 3.5,
@@ -49,7 +53,7 @@
     },
     {
       "score": 4.5,
-      "count": 3
+      "count": 2
     },
     {
       "score": 4.8,
@@ -81,7 +85,7 @@
     },
     {
       "score": 6.5,
-      "count": 3
+      "count": 4
     },
     {
       "score": 6.6,
@@ -461,8 +465,8 @@
       "media_id": 186742,
       "title": "A Certain Dark Item",
       "status": "CURRENT",
-      "score": 4.5,
-      "progress": 3,
+      "score": 6.5,
+      "progress": 5,
       "episode_count": 11,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/186742"
@@ -631,14 +635,14 @@
     {
       "year": 2025,
       "rated_entries": 13,
-      "mean_score": 5.854,
+      "mean_score": 5.792,
       "median_score": 6.8
     },
     {
       "year": 2026,
       "rated_entries": 13,
-      "mean_score": 5.192,
-      "median_score": 4.8
+      "mean_score": 5.346,
+      "median_score": 5.2
     }
   ]
 }

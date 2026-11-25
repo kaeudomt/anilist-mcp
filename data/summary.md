@@ -1,6 +1,6 @@
 # kaeudomt's anime summary (for AniList, unofficial)
 
-Last refreshed (UTC): **2026-11-24T03:13:07Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
+Last refreshed (UTC): **2026-11-25T01:18:37Z**. This scheduled snapshot of public AniList data is stored in a GitHub repository.
 
 For questions about every title or detailed metadata, see [anime-list.json](anime-list.json). For compact machine-readable totals, see [summary.json](summary.json).
 
@@ -11,7 +11,7 @@ For questions about every title or detailed metadata, see [anime-list.json](anim
 - Currently watching: **4**
 - Rated entries: **71**
 - Score format: **POINT_10_DECIMAL** (original AniList values)
-- Mean / median of positive personal scores: **6.875 / 7.4**
+- Mean / median of positive personal scores: **6.892 / 7.4**
 - Zero or missing scores are excluded from score statistics.
 
 Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEATING 0.
@@ -33,7 +33,7 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 
 ## Currently watching
 
-- A Certain Dark Item: episode 3/11; 4.5.
+- A Certain Dark Item: episode 5/11; 6.5.
 - Chainsaw Man: episode 6/12; 6.6.
 - Even the Student Council Has Its Holes!: episode 8/12; 3.7.
 - FX Fighter Kurumi-chan: episode 8/12; 3.6.
@@ -55,14 +55,15 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 
 | Score | Entries |
 | ---: | ---: |
+| 2 | 1 |
 | 2.3 | 1 |
-| 2.8 | 2 |
+| 2.8 | 1 |
 | 3.5 | 2 |
 | 3.6 | 1 |
 | 3.7 | 1 |
 | 4 | 1 |
 | 4.2 | 2 |
-| 4.5 | 3 |
+| 4.5 | 2 |
 | 4.8 | 1 |
 | 5 | 1 |
 | 5.2 | 1 |
@@ -70,7 +71,7 @@ Status counts: COMPLETED 66, CURRENT 4, DROPPED 6, PAUSED 1, PLANNING 100, REPEA
 | 5.8 | 1 |
 | 6 | 2 |
 | 6.3 | 1 |
-| 6.5 | 3 |
+| 6.5 | 4 |
 | 6.6 | 3 |
 | 6.8 | 3 |
 | 7 | 3 |
@@ -127,5 +128,5 @@ These counts use the dates recorded on AniList entries, not an episode-by-episod
 | 2022 | 10 | 7.08 | 7.55 |
 | 2023 | 4 | 8.0 | 7.75 |
 | 2024 | 3 | 7.533 | 7.5 |
-| 2025 | 13 | 5.854 | 6.8 |
-| 2026 | 13 | 5.192 | 4.8 |
+| 2025 | 13 | 5.792 | 6.8 |
+| 2026 | 13 | 5.346 | 5.2 |
