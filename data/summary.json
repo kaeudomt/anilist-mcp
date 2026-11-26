@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-25T01:18:37Z",
+  "refreshed_at_utc": "2026-11-26T00:53:31Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
@@ -16,7 +16,7 @@
     "REPEATING": 0
   },
   "rated_entries": 71,
-  "mean_score": 6.892,
+  "mean_score": 6.883,
   "median_score": 7.4,
   "score_distribution": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "score": 6,
-      "count": 2
+      "count": 3
     },
     {
       "score": 6.3,
@@ -89,7 +89,7 @@
     },
     {
       "score": 6.6,
-      "count": 3
+      "count": 2
     },
     {
       "score": 6.8,
@@ -465,7 +465,7 @@
       "media_id": 186742,
       "title": "A Certain Dark Item",
       "status": "CURRENT",
-      "score": 6.5,
+      "score": 6,
       "progress": 5,
       "episode_count": 11,
       "completed_at": null,
@@ -475,7 +475,7 @@
       "media_id": 127230,
       "title": "Chainsaw Man",
       "status": "CURRENT",
-      "score": 6.6,
+      "score": 6.5,
       "progress": 6,
       "episode_count": 12,
       "completed_at": null,
@@ -617,7 +617,7 @@
     {
       "year": 2022,
       "rated_entries": 10,
-      "mean_score": 7.08,
+      "mean_score": 7.07,
       "median_score": 7.55
     },
     {
@@ -641,7 +641,7 @@
     {
       "year": 2026,
       "rated_entries": 13,
-      "mean_score": 5.346,
+      "mean_score": 5.308,
       "median_score": 5.2
     }
   ]
