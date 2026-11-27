@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "kaeudomt",
-  "refreshed_at_utc": "2026-11-26T00:53:31Z",
+  "refreshed_at_utc": "2026-11-27T00:58:34Z",
   "score_format": "POINT_10_DECIMAL",
   "score_scope": "All entries with a personal score greater than zero; zero means unrated.",
   "total_entries": 177,
@@ -466,7 +466,7 @@
       "title": "A Certain Dark Item",
       "status": "CURRENT",
       "score": 6,
-      "progress": 5,
+      "progress": 6,
       "episode_count": 11,
       "completed_at": null,
       "site_url": "https://anilist.co/anime/186742"
